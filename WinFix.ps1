@@ -4443,7 +4443,7 @@ function Set-ServicesManual {
         'Schedule', 
         'SystemEventsBroker', 
         'StateRepository', 
-        'Workstation'        
+        'Workstation',      
         'TextInputManagementService', 
         'sppsvc'
       )
